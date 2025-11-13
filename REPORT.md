@@ -8,18 +8,21 @@ Describe what the starter code does and what problems you noticed.
 
 ---
 
-## 2. What Was Wrong
-
-Explain the bugs you found in the starter code:
-
-- **Bug 1**: What was the problem? Why did it happen? How did you fix it?
-- **Bug 2**: What was the second problem? Why did it happen? How did you fix it?
-- **Bug 3**: What was the third problem? Why did it happen? How did you fix it?
-- **(More bugs if you found them)**
+## 2. Analysis of Issues:
+- What was wrong in the starter code?
+- Why did those issues prevent correct behavior?
+- What patterns were misapplied?
 
 ---
 
-## 3. What You Learned
+## 3. Implementation Changes:
+- What code did you modify?
+- Why did you make each change?
+- How do changes align with EIP patterns?
+
+---
+
+## 4. What You Learned
 
 Write a few sentences about:
 
@@ -29,7 +32,7 @@ Write a few sentences about:
 
 ---
 
-## 4. AI Disclosure
+## 5. AI Disclosure
 
 **Did you use AI tools?** (ChatGPT, Copilot, Claude, etc.)
 
